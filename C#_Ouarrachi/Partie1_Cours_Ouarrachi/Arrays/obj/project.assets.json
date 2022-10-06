@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\C#-Ouarrachi\\Partie1_Cours_Ouarrachi\\Arrays\\Arrays.csproj",
+      "projectUniqueName": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Csharp_Basics\\C#_Ouarrachi\\Partie1_Cours_Ouarrachi\\Arrays\\Arrays.csproj",
       "projectName": "Arrays",
-      "projectPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\C#-Ouarrachi\\Partie1_Cours_Ouarrachi\\Arrays\\Arrays.csproj",
+      "projectPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Csharp_Basics\\C#_Ouarrachi\\Partie1_Cours_Ouarrachi\\Arrays\\Arrays.csproj",
       "packagesPath": "C:\\Users\\Youssef Baba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\C#-Ouarrachi\\Partie1_Cours_Ouarrachi\\Arrays\\obj\\",
+      "outputPath": "C:\\Users\\Youssef Baba\\Desktop\\My_Computer\\My-Projects\\Csharp_Basics\\C#_Ouarrachi\\Partie1_Cours_Ouarrachi\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Youssef Baba\\AppData\\Roaming\\NuGet\\NuGet.Config",

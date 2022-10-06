@@ -10,7 +10,8 @@ namespace Enumeration
          - link1 : https://www.youtube.com/watch?v=g-LJlrMXZ5k&list=PLAC325451207E3105&index=45
          - link2 : https://www.youtube.com/watch?v=HsTVTCP-c4w&list=PLAC325451207E3105&index=46
          - link3 : https://www.youtube.com/watch?v=2f5R8NdIdzc&list=PLAC325451207E3105&index=47
-
+         - link4 : https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum
+         - link5 : https://dotnettutorials.net/lesson/enums-csharp/
 
          */
         static void Main(string[] args)
