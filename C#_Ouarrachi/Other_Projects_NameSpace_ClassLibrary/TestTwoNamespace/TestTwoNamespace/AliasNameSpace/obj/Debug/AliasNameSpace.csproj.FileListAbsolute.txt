@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\AliasNameSpace.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\AliasNameSpace.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\AliasNameSpace.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\ConsoleApp1.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\ConsoleApp2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\ConsoleApp1.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\ConsoleApp1.dll.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\ConsoleApp2.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\bin\Debug\ConsoleApp2.dll.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\obj\Debug\AliasNameSpace.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\obj\Debug\AliasNameSpace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\obj\Debug\AliasNameSpace.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\obj\Debug\AliasNameSpace.csproj.CopyComplete
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\obj\Debug\AliasNameSpace.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\AliasNameSpace\obj\Debug\AliasNameSpace.pdb

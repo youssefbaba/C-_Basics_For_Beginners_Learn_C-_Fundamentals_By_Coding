@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeEqualsMethodTest3\bin\Debug\ObjectTypeEqualsMethodTest3.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeEqualsMethodTest3\bin\Debug\ObjectTypeEqualsMethodTest3.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeEqualsMethodTest3\bin\Debug\ObjectTypeEqualsMethodTest3.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeEqualsMethodTest3\obj\Debug\ObjectTypeEqualsMethodTest3.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeEqualsMethodTest3\obj\Debug\ObjectTypeEqualsMethodTest3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeEqualsMethodTest3\obj\Debug\ObjectTypeEqualsMethodTest3.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeEqualsMethodTest3\obj\Debug\ObjectTypeEqualsMethodTest3.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeEqualsMethodTest3\obj\Debug\ObjectTypeEqualsMethodTest3.pdb

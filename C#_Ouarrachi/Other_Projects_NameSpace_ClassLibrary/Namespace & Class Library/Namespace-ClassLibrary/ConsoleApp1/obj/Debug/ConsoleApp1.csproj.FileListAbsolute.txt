@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp3.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp2.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp2.dll.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp3.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\bin\Debug\ConsoleApp3.dll.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

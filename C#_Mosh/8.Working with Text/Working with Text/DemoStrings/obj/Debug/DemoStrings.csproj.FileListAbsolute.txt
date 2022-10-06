@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Text\DemoStrings\bin\Debug\DemoStrings.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Text\DemoStrings\bin\Debug\DemoStrings.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Text\DemoStrings\bin\Debug\DemoStrings.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Text\DemoStrings\obj\Debug\DemoStrings.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Text\DemoStrings\obj\Debug\DemoStrings.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Text\DemoStrings\obj\Debug\DemoStrings.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Text\DemoStrings\obj\Debug\DemoStrings.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ValueTypeAndReferenceType\bin\Debug\ValueTypeAndReferenceType.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ValueTypeAndReferenceType\bin\Debug\ValueTypeAndReferenceType.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ValueTypeAndReferenceType\bin\Debug\ValueTypeAndReferenceType.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.pdb

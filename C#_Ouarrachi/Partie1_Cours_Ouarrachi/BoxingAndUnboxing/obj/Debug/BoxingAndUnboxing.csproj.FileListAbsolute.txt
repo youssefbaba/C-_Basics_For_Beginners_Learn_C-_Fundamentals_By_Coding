@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\BoxingAndUnboxing\bin\Debug\BoxingAndUnboxing.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\BoxingAndUnboxing\obj\Debug\BoxingAndUnboxing.pdb

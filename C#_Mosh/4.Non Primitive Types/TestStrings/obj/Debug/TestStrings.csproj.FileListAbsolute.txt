@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestStrings\obj\Debug\TestStrings.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestStrings\obj\Debug\TestStrings.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestStrings\bin\Debug\TestStrings.exe.config
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestStrings\bin\Debug\TestStrings.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestStrings\bin\Debug\TestStrings.pdb
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestStrings\obj\Debug\TestStrings.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestStrings\obj\Debug\TestStrings.pdb

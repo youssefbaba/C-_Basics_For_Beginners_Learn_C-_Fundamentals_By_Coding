@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExeciseOne\bin\Debug\ExeciseOne.exe.config
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExeciseOne\bin\Debug\ExeciseOne.exe
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExeciseOne\bin\Debug\ExeciseOne.pdb
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExeciseOne\obj\Debug\ExeciseOne.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExeciseOne\obj\Debug\ExeciseOne.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExeciseOne\obj\Debug\ExeciseOne.exe
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExeciseOne\obj\Debug\ExeciseOne.pdb

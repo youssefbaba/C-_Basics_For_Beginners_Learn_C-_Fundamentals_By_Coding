@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\ConsoleApp1\bin\Debug\ConsoleApp1.dll.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\ConsoleApp1\bin\Debug\ConsoleApp1.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\ConsoleApp1\obj\Debug\ConsoleApp1.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

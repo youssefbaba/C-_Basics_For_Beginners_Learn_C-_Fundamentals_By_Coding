@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\IterationStatements\TestIterationStatements\bin\Debug\TestIterationStatements.exe.config
+C:\Users\Youssef Baba\source\repos\IterationStatements\TestIterationStatements\bin\Debug\TestIterationStatements.exe
+C:\Users\Youssef Baba\source\repos\IterationStatements\TestIterationStatements\bin\Debug\TestIterationStatements.pdb
+C:\Users\Youssef Baba\source\repos\IterationStatements\TestIterationStatements\obj\Debug\TestIterationStatements.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\source\repos\IterationStatements\TestIterationStatements\obj\Debug\TestIterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\IterationStatements\TestIterationStatements\obj\Debug\TestIterationStatements.exe
+C:\Users\Youssef Baba\source\repos\IterationStatements\TestIterationStatements\obj\Debug\TestIterationStatements.pdb

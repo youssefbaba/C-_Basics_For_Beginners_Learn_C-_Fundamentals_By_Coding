@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\MemoryManagementStackHeap\bin\Debug\MemoryManagementStackHeap.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\MemoryManagementStackHeap\bin\Debug\MemoryManagementStackHeap.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\MemoryManagementStackHeap\bin\Debug\MemoryManagementStackHeap.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\MemoryManagementStackHeap\obj\Debug\MemoryManagementStackHeap.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\MemoryManagementStackHeap\obj\Debug\MemoryManagementStackHeap.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\MemoryManagementStackHeap\obj\Debug\MemoryManagementStackHeap.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\MemoryManagementStackHeap\obj\Debug\MemoryManagementStackHeap.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\MemoryManagementStackHeap\obj\Debug\MemoryManagementStackHeap.pdb

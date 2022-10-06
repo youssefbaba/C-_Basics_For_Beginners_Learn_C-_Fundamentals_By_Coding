@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoForeachLoop\bin\Debug\DemoForeachLoop.exe.config
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoForeachLoop\bin\Debug\DemoForeachLoop.exe
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoForeachLoop\bin\Debug\DemoForeachLoop.pdb
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoForeachLoop\obj\Debug\DemoForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoForeachLoop\obj\Debug\DemoForeachLoop.exe
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoForeachLoop\obj\Debug\DemoForeachLoop.pdb
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoForeachLoop\obj\Debug\DemoForeachLoop.csproj.AssemblyReference.cache

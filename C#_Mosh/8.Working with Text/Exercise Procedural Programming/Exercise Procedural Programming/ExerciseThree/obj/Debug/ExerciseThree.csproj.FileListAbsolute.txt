@@ -1,0 +1,14 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\ExerciseProceduralProgramming\ExerciseOne\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\ExerciseProceduralProgramming\ExerciseOne\ExerciseThree\bin\Debug\ExerciseThree.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\ExerciseProceduralProgramming\ExerciseOne\ExerciseThree\bin\Debug\ExerciseThree.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\ExerciseProceduralProgramming\ExerciseOne\ExerciseThree\obj\Debug\ExerciseThree.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\ExerciseProceduralProgramming\ExerciseOne\ExerciseThree\obj\Debug\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\ExerciseProceduralProgramming\ExerciseOne\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\ExerciseProceduralProgramming\ExerciseOne\ExerciseThree\obj\Debug\ExerciseThree.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Procedural Programming\Exercise Procedural Programming\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Procedural Programming\Exercise Procedural Programming\ExerciseThree\bin\Debug\ExerciseThree.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Procedural Programming\Exercise Procedural Programming\ExerciseThree\bin\Debug\ExerciseThree.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Procedural Programming\Exercise Procedural Programming\ExerciseThree\obj\Debug\ExerciseThree.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Procedural Programming\Exercise Procedural Programming\ExerciseThree\obj\Debug\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Procedural Programming\Exercise Procedural Programming\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Procedural Programming\Exercise Procedural Programming\ExerciseThree\obj\Debug\ExerciseThree.pdb

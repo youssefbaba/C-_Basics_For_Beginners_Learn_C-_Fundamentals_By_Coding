@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\bin\Debug\net6.0\ControlFlowCondionals.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\bin\Debug\net6.0\ControlFlowCondionals.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\bin\Debug\net6.0\ControlFlowCondionals.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\bin\Debug\net6.0\ControlFlowCondionals.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\bin\Debug\net6.0\ControlFlowCondionals.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ControlFlowCondionals.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ControlFlowCondionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ControlFlowCondionals.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ControlFlowCondionals.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ControlFlowCondionals.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ControlFlowCondionals.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\refint\ControlFlowCondionals.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ControlFlowCondionals.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ControlFlowCondionals.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowCondionals\obj\Debug\net6.0\ref\ControlFlowCondionals.dll

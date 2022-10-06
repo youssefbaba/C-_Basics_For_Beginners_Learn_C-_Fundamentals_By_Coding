@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseThree\bin\Debug\ExerciseThree.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseThree\bin\Debug\ExerciseThree.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseThree\obj\Debug\ExerciseThree.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseThree\obj\Debug\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseThree\obj\Debug\ExerciseThree.pdb

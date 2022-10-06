@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\9. Working with Files\WorkingWithFiles\DemoPath\bin\Debug\DemoPath.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\9. Working with Files\WorkingWithFiles\DemoPath\bin\Debug\DemoPath.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\9. Working with Files\WorkingWithFiles\DemoPath\bin\Debug\DemoPath.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\9. Working with Files\WorkingWithFiles\DemoPath\obj\Debug\DemoPath.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\9. Working with Files\WorkingWithFiles\DemoPath\obj\Debug\DemoPath.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\9. Working with Files\WorkingWithFiles\DemoPath\obj\Debug\DemoPath.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\9. Working with Files\WorkingWithFiles\DemoPath\obj\Debug\DemoPath.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\9. Working with Files\WorkingWithFiles\DemoPath\obj\Debug\DemoPath.pdb

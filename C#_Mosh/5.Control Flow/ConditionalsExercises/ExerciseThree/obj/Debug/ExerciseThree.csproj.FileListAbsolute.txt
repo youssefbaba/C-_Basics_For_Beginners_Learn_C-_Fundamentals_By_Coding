@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseThree\bin\Debug\ExerciseThree.exe.config
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseThree\bin\Debug\ExerciseThree.exe
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseThree\bin\Debug\ExerciseThree.pdb
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseThree\obj\Debug\ExerciseThree.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseThree\obj\Debug\ExerciseThree.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseThree\obj\Debug\ExerciseThree.exe
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseThree\obj\Debug\ExerciseThree.pdb

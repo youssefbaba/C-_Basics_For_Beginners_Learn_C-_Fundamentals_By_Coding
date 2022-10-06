@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe.config
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\ReferenceAndValueTypes\bin\Debug\ReferenceAndValueTypes.pdb
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\ReferenceAndValueTypes\obj\Debug\ReferenceAndValueTypes.pdb

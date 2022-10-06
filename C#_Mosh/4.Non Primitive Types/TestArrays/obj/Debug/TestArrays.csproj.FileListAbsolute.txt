@@ -1,0 +1,6 @@
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestArrays\obj\Debug\TestArrays.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestArrays\bin\Debug\TestArrays.exe.config
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestArrays\bin\Debug\TestArrays.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestArrays\bin\Debug\TestArrays.pdb
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestArrays\obj\Debug\TestArrays.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestArrays\obj\Debug\TestArrays.pdb

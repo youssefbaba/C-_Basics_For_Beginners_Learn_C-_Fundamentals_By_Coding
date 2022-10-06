@@ -1,0 +1,6 @@
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseFour\bin\Debug\ExerciseFour.exe.config
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseFour\bin\Debug\ExerciseFour.exe
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseFour\bin\Debug\ExerciseFour.pdb
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseFour\obj\Debug\ExerciseFour.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseFour\obj\Debug\ExerciseFour.exe
+C:\Users\Youssef Baba\source\repos\ConditionalsExercises\ExerciseFour\obj\Debug\ExerciseFour.pdb

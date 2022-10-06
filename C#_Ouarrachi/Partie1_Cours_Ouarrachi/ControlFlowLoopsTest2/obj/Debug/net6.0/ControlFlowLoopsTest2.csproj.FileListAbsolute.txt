@@ -1,0 +1,15 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\bin\Debug\net6.0\ControlFlowLoopsTest2.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\bin\Debug\net6.0\ControlFlowLoopsTest2.deps.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\bin\Debug\net6.0\ControlFlowLoopsTest2.runtimeconfig.json
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\bin\Debug\net6.0\ControlFlowLoopsTest2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\bin\Debug\net6.0\ControlFlowLoopsTest2.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ControlFlowLoopsTest2.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ControlFlowLoopsTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ControlFlowLoopsTest2.AssemblyInfoInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ControlFlowLoopsTest2.AssemblyInfo.cs
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ControlFlowLoopsTest2.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ControlFlowLoopsTest2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\refint\ControlFlowLoopsTest2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ControlFlowLoopsTest2.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ControlFlowLoopsTest2.genruntimeconfig.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ControlFlowLoopsTest2\obj\Debug\net6.0\ref\ControlFlowLoopsTest2.dll

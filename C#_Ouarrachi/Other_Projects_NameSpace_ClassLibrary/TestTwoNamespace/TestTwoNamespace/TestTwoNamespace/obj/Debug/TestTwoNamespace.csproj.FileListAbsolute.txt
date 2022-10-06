@@ -1,0 +1,12 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\obj\Debug\TestTwoNamespace.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\obj\Debug\TestTwoNamespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\obj\Debug\TestTwoNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\bin\Debug\TestTwoNamespace.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\bin\Debug\TestTwoNamespace.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\bin\Debug\TestTwoNamespace.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\obj\Debug\TestTwoNamespace.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\obj\Debug\TestTwoNamespace.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\bin\Debug\TestThreeNamespace.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\bin\Debug\TestThreeNamespace.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\bin\Debug\TestThreeNamespace.dll.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwoNamespace\TestTwoNamespace\TestTwoNamespace\obj\Debug\TestTwoNamespace.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestEnum\bin\Debug\TestEnum.exe.config
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestEnum\bin\Debug\TestEnum.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestEnum\bin\Debug\TestEnum.pdb
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestEnum\obj\Debug\TestEnums.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestEnum\obj\Debug\TestEnums.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestEnum\obj\Debug\TestEnum.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestEnum\obj\Debug\TestEnum.pdb

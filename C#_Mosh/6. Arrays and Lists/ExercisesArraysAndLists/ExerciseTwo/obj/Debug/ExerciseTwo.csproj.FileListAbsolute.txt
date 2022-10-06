@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseTwo\bin\Debug\ExerciseTwo.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseTwo\bin\Debug\ExerciseTwo.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseTwo\bin\Debug\ExerciseTwo.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseTwo\obj\Debug\ExerciseTwo.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseTwo\obj\Debug\ExerciseTwo.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\6. Arrays and Lists\ExercisesArraysAndLists\ExerciseTwo\obj\Debug\ExerciseTwo.pdb

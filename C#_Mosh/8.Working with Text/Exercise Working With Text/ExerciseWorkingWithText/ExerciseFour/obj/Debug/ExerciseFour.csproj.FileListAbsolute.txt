@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Working With Text\ExerciseWorkingWithText\ExerciseFour\obj\Debug\ExerciseFour.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Working With Text\ExerciseWorkingWithText\ExerciseFour\obj\Debug\ExerciseFour.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Working With Text\ExerciseWorkingWithText\ExerciseFour\bin\Debug\ExerciseFour.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Working With Text\ExerciseWorkingWithText\ExerciseFour\bin\Debug\ExerciseFour.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Working With Text\ExerciseWorkingWithText\ExerciseFour\bin\Debug\ExerciseFour.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Working With Text\ExerciseWorkingWithText\ExerciseFour\obj\Debug\ExerciseFour.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\8.Working with Text\Exercise Working With Text\ExerciseWorkingWithText\ExerciseFour\obj\Debug\ExerciseFour.pdb

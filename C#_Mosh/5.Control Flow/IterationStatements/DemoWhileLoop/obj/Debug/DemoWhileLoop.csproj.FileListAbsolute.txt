@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoWhileLoop\bin\Debug\DemoWhileLoop.exe.config
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoWhileLoop\bin\Debug\DemoWhileLoop.exe
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoWhileLoop\bin\Debug\DemoWhileLoop.pdb
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoWhileLoop\obj\Debug\DemoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoWhileLoop\obj\Debug\DemoWhileLoop.exe
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoWhileLoop\obj\Debug\DemoWhileLoop.pdb
+C:\Users\Youssef Baba\source\repos\IterationStatements\DemoWhileLoop\obj\Debug\DemoWhileLoop.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Dates\DateTimes\obj\Debug\DateTimes.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Dates\DateTimes\obj\Debug\DateTimes.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Dates\DateTimes\bin\Debug\DateTimes.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Dates\DateTimes\bin\Debug\DateTimes.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Dates\DateTimes\bin\Debug\DateTimes.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Dates\DateTimes\obj\Debug\DateTimes.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\7.Working with Dates\Working with Dates\DateTimes\obj\Debug\DateTimes.pdb

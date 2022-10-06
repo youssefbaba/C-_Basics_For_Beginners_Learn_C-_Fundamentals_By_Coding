@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\2. Introduction to C# and .NET Framework\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\2. Introduction to C# and .NET Framework\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\2. Introduction to C# and .NET Framework\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\2. Introduction to C# and .NET Framework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\2. Introduction to C# and .NET Framework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\2. Introduction to C# and .NET Framework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\Basics-C#\2. Introduction to C# and .NET Framework\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

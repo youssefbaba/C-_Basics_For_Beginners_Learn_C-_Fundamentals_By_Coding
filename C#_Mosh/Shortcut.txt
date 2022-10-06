@@ -1,0 +1,27 @@
+
+- Ctrl + Shift + b   => Compile Application
+
+- Ctrl + k + c  => Comment 
+
+- Ctrl +  k + u => Remove Comment 
+
+- Shift + alt + c => Create New Class
+
+- ctrl + tab => switsh betwen open window  
+
+- ctrl + e + v  => deplicate line 
+
+- add/remove breakpoint => f9
+
+- run application in the debug mode => f5
+
+- run application without debug mode => ctrl + f5
+
+- stop run application with debug mode  => shift + f5
+
+
+- step over => f10
+
+- step into => f11
+
+- step out => shift + f11

@@ -1,0 +1,11 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\bin\Debug\ShowCase.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\bin\Debug\ShowCase.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\bin\Debug\ShowCase.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\bin\Debug\StringLibrary.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\bin\Debug\StringLibrary.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\obj\Debug\ShowCase.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\obj\Debug\ShowCase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\obj\Debug\ShowCase.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\obj\Debug\ShowCase.csproj.CopyComplete
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\obj\Debug\ShowCase.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\TestTwo-Class-Library\ClassLibraryProjects\ShowCase\obj\Debug\ShowCase.pdb

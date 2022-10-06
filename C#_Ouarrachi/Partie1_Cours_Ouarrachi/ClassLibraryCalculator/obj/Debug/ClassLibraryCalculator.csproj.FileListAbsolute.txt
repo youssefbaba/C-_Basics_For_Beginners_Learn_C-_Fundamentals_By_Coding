@@ -1,0 +1,6 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ClassLibraryCalculator\bin\Debug\ClassLibraryCalculator.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ClassLibraryCalculator\bin\Debug\ClassLibraryCalculator.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ClassLibraryCalculator\obj\Debug\ClassLibraryCalculator.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ClassLibraryCalculator\obj\Debug\ClassLibraryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ClassLibraryCalculator\obj\Debug\ClassLibraryCalculator.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ClassLibraryCalculator\obj\Debug\ClassLibraryCalculator.pdb

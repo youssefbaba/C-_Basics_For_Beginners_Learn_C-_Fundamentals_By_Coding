@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeGetTypMethod\bin\Debug\ObjectTypeGetTypMethod.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeGetTypMethod\bin\Debug\ObjectTypeGetTypMethod.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeGetTypMethod\bin\Debug\ObjectTypeGetTypMethod.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeGetTypMethod\obj\Debug\ObjectTypeGetTypeMethod.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeGetTypMethod\obj\Debug\ObjectTypeGetTypeMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeGetTypMethod\obj\Debug\ObjectTypeGetTypeMethod.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeGetTypMethod\obj\Debug\ObjectTypeGetTypMethod.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\ObjectTypeGetTypMethod\obj\Debug\ObjectTypeGetTypMethod.pdb

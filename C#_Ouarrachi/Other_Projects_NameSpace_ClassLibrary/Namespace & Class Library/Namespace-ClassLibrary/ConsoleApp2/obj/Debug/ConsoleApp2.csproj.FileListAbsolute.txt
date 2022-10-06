@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp2\bin\Debug\ConsoleApp2.dll.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp2\bin\Debug\ConsoleApp2.dll
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Namespace & Class Library\Namespace-ClassLibrary\ConsoleApp2\obj\Debug\ConsoleApp2.dll

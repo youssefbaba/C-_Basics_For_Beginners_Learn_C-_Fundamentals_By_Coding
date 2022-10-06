@@ -1,0 +1,7 @@
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestClasses\bin\Debug\TestClasses.exe.config
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestClasses\bin\Debug\TestClasses.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestClasses\bin\Debug\TestClasses.pdb
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestClasses\obj\Debug\TestClasses.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestClasses\obj\Debug\TestClasses.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestClasses\obj\Debug\TestClasses.exe
+C:\Users\Youssef Baba\source\repos\Non-Primitive Types\TestClasses\obj\Debug\TestClasses.pdb

@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\DifferentBetweenRefAndOutKeyword\bin\Debug\DifferentBetweenRefAndOutKeyword.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\DifferentBetweenRefAndOutKeyword\bin\Debug\DifferentBetweenRefAndOutKeyword.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\DifferentBetweenRefAndOutKeyword\bin\Debug\DifferentBetweenRefAndOutKeyword.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\DifferentBetweenRefAndOutKeyword\obj\Debug\DifferentBetweenRefAndOutKeyword.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\DifferentBetweenRefAndOutKeyword\obj\Debug\DifferentBetweenRefAndOutKeyword.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\DifferentBetweenRefAndOutKeyword\obj\Debug\DifferentBetweenRefAndOutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\DifferentBetweenRefAndOutKeyword\obj\Debug\DifferentBetweenRefAndOutKeyword.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\DifferentBetweenRefAndOutKeyword\obj\Debug\DifferentBetweenRefAndOutKeyword.pdb

@@ -1,0 +1,8 @@
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\NamespaceAliasAndFullyQualifiesName\bin\Debug\NamespaceAliasAndFullyQualifiesName.exe.config
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\NamespaceAliasAndFullyQualifiesName\bin\Debug\NamespaceAliasAndFullyQualifiesName.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\NamespaceAliasAndFullyQualifiesName\bin\Debug\NamespaceAliasAndFullyQualifiesName.pdb
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\NamespaceAliasAndFullyQualifiesName\obj\Debug\NamespaceAliasAndFullyQualifiesName.csproj.AssemblyReference.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\NamespaceAliasAndFullyQualifiesName\obj\Debug\NamespaceAliasAndFullyQualifiesName.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\NamespaceAliasAndFullyQualifiesName\obj\Debug\NamespaceAliasAndFullyQualifiesName.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\NamespaceAliasAndFullyQualifiesName\obj\Debug\NamespaceAliasAndFullyQualifiesName.exe
+C:\Users\Youssef Baba\Desktop\My_Computer\My-Projects\C#-Ouarrachi\Test-Cour\Partie1\NamespaceAliasAndFullyQualifiesName\obj\Debug\NamespaceAliasAndFullyQualifiesName.pdb
